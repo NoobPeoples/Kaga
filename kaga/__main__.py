@@ -60,7 +60,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [Hayaka Ryu](https://t.me/RxyMX)
+*Dikelolah oleh ❤️:* [Ihsan #](https://t.me/RxyMX)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
