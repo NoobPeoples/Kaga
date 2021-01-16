@@ -1,4 +1,4 @@
-# Kaga Robot
+# Violet Robot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/HayakaRyu/)
@@ -14,7 +14,7 @@ Bot Python telegram modular yang berjalan di python3 dengan database sqlalchemy.
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, itu telah berkembang, menjadi sangat modular dan
 mudah digunakan. Perhatikan bahwa proyek ini menggunakan bot Telegram terkenal pada masanya @BanhammerMarie_bot dari Paul Larson sebagai basisnya.
 
-Dapat ditemukan di telegram sebagai [Kaga](https://t.me/KagaRobot).
+Dapat ditemukan di telegram sebagai [Violet](https://t.me/VioletsRobot).
 
 Bergabunglah dengan [Dukungan Grup](https://t.me/ZeroBotSupport) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
 
