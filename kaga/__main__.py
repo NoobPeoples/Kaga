@@ -61,6 +61,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem Warning.
 
 *Dikelolah oleh ❤️:* [Ihsan #](https://t.me/RxyMX)
+*Developer      🍁:* [Yuji](https://t.me/xxxyuji)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
