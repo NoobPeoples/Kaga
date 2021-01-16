@@ -60,7 +60,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 • Sistem penyimpanan Note.
 • Sistem Warning.
 
-*Dikelolah oleh ❤️:* [Hayaka Ryu](https://t.me/HayakaRyu)
+*Dikelolah oleh ❤️:* [Hayaka Ryu](https://t.me/RxyMX)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
@@ -68,7 +68,7 @@ Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Tambahkan Saya ke Grup 👥", url="t.me/KagaRobot?startgroup=true"
+            text="Tambahkan Saya ke Grup 👥", url="t.me/VioletsRobot?startgroup=true"
         ),
     ]
 ]
@@ -81,7 +81,7 @@ buttons += [
             url=f"t.me/{dispatcher.bot.username}?start=help",
         ),
         InlineKeyboardButton(
-            text="Gban Logs 🚫", url="https://t.me/joinchat/AAAAAEuYErj6v8_DOigW0g"
+            text="Gban Logs 🚫", url="https://t.me/joinchat/VN_35KFkyhNcVqdj"
         ),
         
     ]
