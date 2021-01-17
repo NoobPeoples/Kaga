@@ -91,7 +91,7 @@ buttons += [
 buttons += [
     [
         InlineKeyboardButton(
-            text="Support 🎗️", url="https://t.me/ZeroBotSupport"
+            text="Support 🎗️", url="https://t.me/Violet_support"
         ),
         InlineKeyboardButton(
             text="Channel 📢", url="https://t.me/joinchat/VN_35KFkyhNcVqdj"
