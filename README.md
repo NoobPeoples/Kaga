@@ -16,7 +16,7 @@ mudah digunakan. Perhatikan bahwa proyek ini menggunakan bot Telegram terkenal p
 
 Dapat ditemukan di telegram sebagai [Violet](https://t.me/VioletsRobot).
 
-Bergabunglah dengan [Dukungan Grup](https://t.me/ZeroBotSupport) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
+Bergabunglah dengan [Dukungan Grup](https://t.me/Violet_support) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
