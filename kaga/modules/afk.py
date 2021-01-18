@@ -15,8 +15,8 @@ from kaga.modules.disable import (
 from kaga.modules.no_sql import afk_db
 from kaga.modules.users import get_user_id
 
-AFK_GROUP = 0
-AFK_REPLY_GROUP = 0
+AFK_GROUP = 60
+AFK_REPLY_GROUP = 75
 
 
 """This Function to triger bot"""
