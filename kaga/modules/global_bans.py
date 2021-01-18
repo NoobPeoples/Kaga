@@ -466,7 +466,7 @@ def __user_info__(user_id):
         if is_gbanned:
             user = gban_db.get_gbanned_user(user_id)
             text += "\n<b>Alasan:</b> {}".format(html.escape(user["reason"]))
-            text += "\nAjukan banding ke @botspamgroup jika menurut Anda itu tidak valid."
+            text += "\nAjukan banding ke @Violet_Support jika menurut Anda itu tidak valid."
     else:
         text = text.format("No")
     return text
