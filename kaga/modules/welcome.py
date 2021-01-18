@@ -171,7 +171,7 @@ def new_member(update, context):
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Pemilik saya di rumah, Ayo berpesta 🎉",
+                    "My master has come anything can happen 🎉",
                     reply_to_message_id=reply)
                 welcome_log = (f"{html.escape(chat.title)}\n"
                                f"#USER_JOINED\n"
@@ -181,7 +181,7 @@ def new_member(update, context):
             # Welcome Devs
             elif new_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    "Dev saya Di sini, mari kita lihat apa yang terjadi sekarang 🔥",
+                    "My Dev is here don't get killed🔥",
                     reply_to_message_id=reply,
                 )
                 continue
@@ -451,13 +451,13 @@ def left_member(update, context):
             # Give the owner a special goodbye
             if left_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Sayounara <3", reply_to_message_id=reply)
+                    "My master is out ..", reply_to_message_id=reply)
                 return
 
             # Give the devs a special goodbye
             elif left_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    "Beri jalan Dev saya mau pergi...",
+                    "Move over the developer I want to pass ...",
                     reply_to_message_id=reply,
                 )
                 return
