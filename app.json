@@ -1,5 +1,4 @@
 {
-      "logo": "https://telegra.ph/file/b99bb9e7f762355c3aaf1.jpg",
       "name": "Violet",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
@@ -9,7 +8,7 @@
          "manager",
          "Kaga"
       ],   
-   "repository": "https://github.com/NoobPeoples/Violet",
+   "repository": "https://github.com/HayakaRyu/Kaga",
    "addons": [
       {
          "options": {
