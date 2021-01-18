@@ -62,6 +62,7 @@ Saya memiliki banyak fitur praktis ☺️ seperti:
 
 *Dikelolah oleh ❤️:* [Ihsan #](https://t.me/RxyMX)
 *Developer      🍁:* [Yuji](https://t.me/xxxyuji)
+*Support        ☘️:* [OnlyFaris](https://t.me/TITIT_KUDA)
 
 Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
 """
